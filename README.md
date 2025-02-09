@@ -1,0 +1,1 @@
+Para fazer com que o código funcione, é necessário criar uma pasta bases/ . E dentro dela deve-se jogar as bases de dados que estão no drive: https://drive.google.com/drive/folders/1dEUP5TNT-aEXPiN9CATNGKMfBZk7g_cT?usp=drive_link
