@@ -1,3 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 bases/datadump_s5-000.csv filter=lfs diff=lfs merge=lfs -text
 bases/datadump_s5-001.csv filter=lfs diff=lfs merge=lfs -text
 bases/datadump_s5-002.csv filter=lfs diff=lfs merge=lfs -text
